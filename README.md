@@ -1,1 +1,1 @@
-Joy of Living
+PROJECT: Joy of Living
