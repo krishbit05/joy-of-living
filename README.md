@@ -1,1 +1,2 @@
-Project Name: Joy of Living (Updated from branch 2)
+Project Name: Joy of Living (Updated from Project A and B)
+
